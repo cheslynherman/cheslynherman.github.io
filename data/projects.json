@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "title": "Bootstrap Portfolio",
         "image_url": "https://i.postimg.cc/bYL3LGPk/portfolio-screenshot.png",
         "desc": "",
@@ -7,6 +8,7 @@
         "github": "https://github.com/cheslynherman/bootstrap-project"
     },
     {
+        "id": 2,
         "title": "JavaScript Calculator",
         "image_url": "https://i.postimg.cc/hPjMYS4w/calc-screenshot.png",
         "desc": "",
@@ -14,6 +16,7 @@
         "github": "https://github.com/cheslynherman/calculator"
     },
     {
+        "id": 3,
         "title": "BMI Calculator",
         "image_url": "https://i.postimg.cc/q7fLgycV/bmi-screenshot.png",
         "desc": "",
@@ -21,6 +24,7 @@
         "github": "https://github.com/cheslynherman/bmi-calc"
     },
     {
+        "id": 4,
         "title": "Temperature Converter",
         "image_url": "https://i.postimg.cc/LsfxVN48/temp-screenshot.png",
         "desc": "",
@@ -28,6 +32,7 @@
         "github": "https://github.com/cheslynherman/temp-converter"
     },
     {
+        "id": 5,
         "title": "JavaScript E-commerce Site",
         "image_url": "https://i.postimg.cc/rmNgBsr6/eomp-screenshot.png",
         "desc": "",

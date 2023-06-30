@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "company": "Sigma Connected",
+        "image_url": "https://i.postimg.cc/MTg8Xffg/sigma.png",
+        "position": "Customer Advisor",
+        "duration": "Nov 2021 - March 2023",
+        "duties": ""
+    },
+    {
+        "id": 2,
+        "company": "Studio 88",
+        "image_url": "https://i.postimg.cc/CxwpZgdM/studio88.jpg",
+        "position": "Sales Assistant (part-time casual)",
+        "duration": "Sept 2018 - Jan 2020",
+        "duties": ""
+    }
+]

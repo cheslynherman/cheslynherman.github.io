@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "institution": "Life Choices Coding Academy",
+        "duration": "2023 - Current",
+        "image_url": "https://i.postimg.cc/h47B6sHn/life-choices.png",
+        "qualification": "Software and Web Development Course"
+    },
+    {
+        "id": 2,
+        "institution": "Cape Peninsula University of Technology",
+        "duration": "2018 - 2020",
+        "image_url": "https://i.postimg.cc/wTXdTvqb/cput-cape-peninsula-university-of-technology6643.jpg",
+        "qualification": "Diploma in Public Administration"
+    },
+    {
+        "id": 3,
+        "institution": "Mondale High School",
+        "duration": "2013 - 2017",
+        "image_url": "https://i.postimg.cc/fTnNNXN9/mondale.jpg",
+        "qualification": "Matric Certficate"
+    }
+]
