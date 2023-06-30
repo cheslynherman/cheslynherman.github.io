@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Bootstrap Portfolio",
+        "image_url": "https://i.postimg.cc/bYL3LGPk/portfolio-screenshot.png",
+        "desc": "",
+        "live_link": "https://cheslynherman-bootstrap-portfolio.netlify.app/",
+        "github": "https://github.com/cheslynherman/bootstrap-project"
+    },
+    {
+        "title": "JavaScript Calculator",
+        "image_url": "https://i.postimg.cc/hPjMYS4w/calc-screenshot.png",
+        "desc": "",
+        "live_link": "https://resplendent-madeleine-6f8d4e.netlify.app/",
+        "github": "https://github.com/cheslynherman/calculator"
+    },
+    {
+        "title": "BMI Calculator",
+        "image_url": "https://i.postimg.cc/q7fLgycV/bmi-screenshot.png",
+        "desc": "",
+        "live_link": "https://peppy-bublanina-aea0a3.netlify.app/",
+        "github": "https://github.com/cheslynherman/bmi-calc"
+    },
+    {
+        "title": "Temperature Converter",
+        "image_url": "https://i.postimg.cc/LsfxVN48/temp-screenshot.png",
+        "desc": "",
+        "live_link": "https://temp-converter-cheslyn-herman.netlify.app/",
+        "github": "https://github.com/cheslynherman/temp-converter"
+    },
+    {
+        "title": "JavaScript E-commerce Site",
+        "image_url": "https://i.postimg.cc/rmNgBsr6/eomp-screenshot.png",
+        "desc": "",
+        "live_link": "https://quirkystudio-store.netlify.app/",
+        "github": "https://github.com/cheslynherman/js-eomp"
+    }
+]
