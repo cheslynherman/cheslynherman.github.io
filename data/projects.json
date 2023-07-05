@@ -1,6 +1,14 @@
 [
     {
         "id": 1,
+        "title": "Bootstrap Jumbotron Exercise",
+        "image_url": "https://i.postimg.cc/9MzpcrBs/jumbotron-screenshot.png",
+        "desc": "",
+        "live_link": "https://magenta-duckanoo-187b96.netlify.app/",
+        "github": "https://github.com/cheslynherman/bootstrap"
+    },
+    {
+        "id": 2,
         "title": "Bootstrap Portfolio",
         "image_url": "https://i.postimg.cc/bYL3LGPk/portfolio-screenshot.png",
         "desc": "",
@@ -8,7 +16,7 @@
         "github": "https://github.com/cheslynherman/bootstrap-project"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "JavaScript Calculator",
         "image_url": "https://i.postimg.cc/hPjMYS4w/calc-screenshot.png",
         "desc": "",
@@ -16,7 +24,7 @@
         "github": "https://github.com/cheslynherman/calculator"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "BMI Calculator",
         "image_url": "https://i.postimg.cc/q7fLgycV/bmi-screenshot.png",
         "desc": "",
@@ -24,7 +32,7 @@
         "github": "https://github.com/cheslynherman/bmi-calc"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Temperature Converter",
         "image_url": "https://i.postimg.cc/LsfxVN48/temp-screenshot.png",
         "desc": "",
@@ -32,7 +40,15 @@
         "github": "https://github.com/cheslynherman/temp-converter"
     },
     {
-        "id": 5,
+        "id": 6,
+        "title": "JavaScript E-commerce Practice",
+        "image_url": "https://i.postimg.cc/K8NrLnqd/ecom-screenshot.png",
+        "desc": "",
+        "live_link": "https://zingy-churros-f41ad4.netlify.app/",
+        "github": "https://github.com/cheslynherman/ecom-exercise"
+    },
+    {
+        "id": 7,
         "title": "JavaScript E-commerce Site",
         "image_url": "https://i.postimg.cc/rmNgBsr6/eomp-screenshot.png",
         "desc": "",
