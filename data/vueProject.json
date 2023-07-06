@@ -1,0 +1,151 @@
+{
+    "education": [
+        {
+            "id": 1,
+            "institution": "Life Choices Coding Academy",
+            "duration": "2023 - Current",
+            "image_url": "https://i.postimg.cc/h47B6sHn/life-choices.png",
+            "qualification": "Software and Web Development Course"
+        },
+        {
+            "id": 2,
+            "institution": "Cape Peninsula University of Technology",
+            "duration": "2018 - 2020",
+            "image_url": "https://i.postimg.cc/wTXdTvqb/cput-cape-peninsula-university-of-technology6643.jpg",
+            "qualification": "Diploma in Public Administration"
+        },
+        {
+            "id": 3,
+            "institution": "Mondale High School",
+            "duration": "2013 - 2017",
+            "image_url": "https://i.postimg.cc/fTnNNXN9/mondale.jpg",
+            "qualification": "Matric Certficate"
+        }
+    ],
+    "testimonials": [
+        {
+            "id": 1,
+            "name": "Lyle Brown",
+            "image_url": "https://i.postimg.cc/WbXx2dDM/C12-C-1-Lyle-Brown-2.jpg",
+            "text": "Cheslyn's extroverted personality is one thats laced with power. His presence allows you to feel comfortable. He is always ready to have a chat and is allows willing to help with whatever he can in his capacity."
+          },
+          {
+            "id": 2,
+            "name": "Taahirah Ismail",
+            "image_url": "https://i.postimg.cc/8PqFx1RN/C12-Taahirah-Ismail-1.jpg",
+            "text": "Cheslyn is a hard-working individual, and natural-born leader. He has this presence about him that makes you want to listen and follow him. Generally a great guy to have around."
+          },
+          {
+            "id": 3,
+            "name": "Ethan Lesar",
+            "image_url": "https://i.postimg.cc/yd963mqg/C12-C1-Ethan-Lesar-3.jpg",
+            "text": "I have had the pleasure of working alongside Cheslyn, and I can confidently say that he is an exceptional team member. He has a remarkable ability to listen to others' ideas and perspectives with an open mind."
+          },
+          {
+            "id": 4,
+            "name": "Timothy Barry",
+            "image_url": "https://i.postimg.cc/ZRBnw2WC/C12-Timothy-Barry-1.jpg",
+            "text": "Have had the pleasure of working alongside Cheslyn and he is a great personality to be around. He is a very kind person and also very genuine. He works extremely well in a team and also by himself."
+          },
+          {
+            "id": 5,
+            "name": "Luke Evertson",
+            "image_url": "https://i.postimg.cc/Hk7NgBby/C12-Luke-Evertson-1.jpg",
+            "text": "Cheslyn Herman, an enthusiastic and charismatic individual who is truly hardworking and motivated to do the best and bring out the best in others. A pleasure to work and socialise with."
+          },
+          {
+            "id": 6,
+            "name": "Caryn-Jane Lodewyk",
+            "image_url": "https://i.postimg.cc/R0tWmqfW/C12-C1-Caryn-Lodewyk-2.jpg",
+            "text": ""
+          },
+          {
+            "id": 7,
+            "name": "Ayesha Galant",
+            "image_url": "https://i.postimg.cc/PJxtKBFh/C12-Ayesha-Galant-Class1-1.jpg",
+            "text": "Cheslyn is dedicated and very passionate about his work. Working together makes me motivated to go above and beyond to reach our goals and of course, having fun while doing so."
+          },
+          {
+            "id": 8,
+            "name": "Meezaan Davids",
+            "image_url": "https://i.postimg.cc/nr5SNxdq/meezaan.jpg",
+            "text": "Cheslyn's bright personality and social skills have made him a valuable member of our team. He has a talent for keeping the team together and his work is always tidy and simple. Working with Cheslyn has been a great experience."
+          }
+    ],
+    "experience": [
+        {
+            "id": 1,
+            "company": "Sigma Connected",
+            "image_url": "https://i.postimg.cc/MTg8Xffg/sigma.png",
+            "position": "Customer Advisor",
+            "duration": "Nov 2021 - March 2023",
+            "duties": ""
+        },
+        {
+            "id": 2,
+            "company": "Studio 88",
+            "image_url": "https://i.postimg.cc/CxwpZgdM/studio88.jpg",
+            "position": "Sales Assistant (part-time casual)",
+            "duration": "Sept 2018 - Jan 2020",
+            "duties": ""
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "Bootstrap Jumbotron Exercise",
+            "image_url": "https://i.postimg.cc/9MzpcrBs/jumbotron-screenshot.png",
+            "desc": "",
+            "live_link": "https://magenta-duckanoo-187b96.netlify.app/",
+            "github": "https://github.com/cheslynherman/bootstrap"
+        },
+        {
+            "id": 2,
+            "title": "Bootstrap Portfolio",
+            "image_url": "https://i.postimg.cc/bYL3LGPk/portfolio-screenshot.png",
+            "desc": "",
+            "live_link": "https://cheslynherman-bootstrap-portfolio.netlify.app/",
+            "github": "https://github.com/cheslynherman/bootstrap-project"
+        },
+        {
+            "id": 3,
+            "title": "JavaScript Calculator",
+            "image_url": "https://i.postimg.cc/hPjMYS4w/calc-screenshot.png",
+            "desc": "",
+            "live_link": "https://resplendent-madeleine-6f8d4e.netlify.app/",
+            "github": "https://github.com/cheslynherman/calculator"
+        },
+        {
+            "id": 4,
+            "title": "BMI Calculator",
+            "image_url": "https://i.postimg.cc/q7fLgycV/bmi-screenshot.png",
+            "desc": "",
+            "live_link": "https://peppy-bublanina-aea0a3.netlify.app/",
+            "github": "https://github.com/cheslynherman/bmi-calc"
+        },
+        {
+            "id": 5,
+            "title": "Temperature Converter",
+            "image_url": "https://i.postimg.cc/LsfxVN48/temp-screenshot.png",
+            "desc": "",
+            "live_link": "https://temp-converter-cheslyn-herman.netlify.app/",
+            "github": "https://github.com/cheslynherman/temp-converter"
+        },
+        {
+            "id": 6,
+            "title": "JavaScript E-commerce Practice",
+            "image_url": "https://i.postimg.cc/K8NrLnqd/ecom-screenshot.png",
+            "desc": "",
+            "live_link": "https://zingy-churros-f41ad4.netlify.app/",
+            "github": "https://github.com/cheslynherman/ecom-exercise"
+        },
+        {
+            "id": 7,
+            "title": "JavaScript E-commerce Site",
+            "image_url": "https://i.postimg.cc/C1f6KGGZ/eoommp.png",
+            "desc": "",
+            "live_link": "https://quirkystudio-store.netlify.app/",
+            "github": "https://github.com/cheslynherman/js-eomp"
+        }
+    ]
+}
